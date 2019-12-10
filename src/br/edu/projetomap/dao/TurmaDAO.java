@@ -16,7 +16,10 @@ import java.util.List;
 
 /**
  *
- * @author rogerio public class TurmaDAO {
+ * @author rogerio
+ */
+
+public class TurmaDAO {
 
     private Connection con;
     private String sql;
