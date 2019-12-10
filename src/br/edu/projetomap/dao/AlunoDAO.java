@@ -19,8 +19,10 @@ import java.util.List;
 
 /**
  *
- * @author ro
-gerio public class AlunoDAO {
+ * @author rogerio
+ */
+
+public class AlunoDAO {
 
     private Connection con;
     private String sql;
